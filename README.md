@@ -14,3 +14,5 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+-------------------------
+新vue2.0
